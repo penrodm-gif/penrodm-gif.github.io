@@ -2,7 +2,7 @@
 
 **Description:**  
 CIA Triad is confidentiality, integrity, and availability of information. 
-Different types of hackers such as cybercriminals, script kiddies, brokers, Cyberterrorists, Hactivists, and State Actors.
+Different types of hackers such as cybercriminals, script kiddies, brokers, Cyberterrorists, Hactivists, and State Actors.-
 
 
 **Artifacts:**  
