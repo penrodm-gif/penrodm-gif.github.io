@@ -7,8 +7,7 @@ Different types of hackers such as cybercriminals, script kiddies, brokers, Cybe
 - (Insert a screenshot of your live GitHub Pages site.)
 
 **Reflection:**  
-(Write 1–2 paragraphs on why this matters for real life or work.)
+What I learned this week was what the CIA Triad was. I found out this week that it means Confidentialty that only people that are allowed to see the information are the only ones who see it. The I in CIA Triad means Integrety and that nobodyu other than the autherised person and or malicious software is altering the data. The last part is A, Availability and it means it is availible to the authorised person. The entire reason why CIA Triad matters is because it is the three steps of pretection.
 
-**AI Use Note:**  
-(If you used AI like ChatGPT, explain how.)
+
 
