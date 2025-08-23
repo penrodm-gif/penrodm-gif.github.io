@@ -6,7 +6,9 @@ Different types of hackers such as cybercriminals, script kiddies, brokers, Cybe
 
 
 **Artifacts:**  
-<img width="1846" height="806" alt="image" src="https://github.com/user-attachments/assets/5a665d58-a6bd-40d4-8411-82dced5b3daa" />
+https://penrodm-gif.github.io/
+<img width="1635" height="186" alt="Screenshot 2025-08-23 175250" src="https://github.com/user-attachments/assets/e589caee-0e3d-4477-9cd5-081d3a72d6a1" />
+
 
 
 **Reflection:**  
